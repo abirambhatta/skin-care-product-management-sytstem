@@ -7,7 +7,7 @@ from datetime import datetime
 print("\n")
 print("\n")
 print("\t \t \t \t \t \t \tWeCare Wholesale Center")
-print("\t \t \t \t \t\tKalanki, Kathmandu | Contact: 98435965601")
+print("\t \t \t \t \t\tKumaltar, Kathmandu | Contact: 98435965601")
 print("\n")
 print("*"*121)
 print("\t \t \t \t Access granted to WeCare Admin Console. Start your operations!")
